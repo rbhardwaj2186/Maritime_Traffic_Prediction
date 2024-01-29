@@ -1,0 +1,2 @@
+# Maritime_Traffic_Prediction
+ This project involves creating predictive models (outlined in Notebooks 1-6) for maritime traffic in the Baltic Sea, utilizing a comprehensive dataset including 14 million AIS observations from 2017-2019, and proposes an innovative A*-based method to model traffic in ice-covered waters, evaluating its accuracy in predicting routes, speed, traffic, and ETA separately.
